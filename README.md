@@ -1,1 +1,1 @@
-# forTeamJet
+# HTTP server - weather forecasting
